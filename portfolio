@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parwinder Portfolio
+    </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="conatiner">
+
+
+        <div class="sidebar">
+            
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/My Intro.html">My Intro</a></li>
+                    <li><a href="/services.html">Services</a></li>
+                    <li><a href="/blog.html">Blog</a></li>
+                    <li><a href="/contact.html">Contact Me</a></li>
+                </ul>
+
+            </nav>
+
+        </div>
+        <div class="main">
+            <div class="infoconatiner">
+                <div class="Devinfo">
+                    <div class="hello">Hi I am  </div>
+                    <div class="name">Parwinder Singh</div>
+                    <div class="about">Student, Developer</div>
+                    <div class="moreabout">I am pursuing my graduation from Guru Nanak Dev University, Amritsar, Punjab. I love to spend my quality time in desining any random things. I love to watch cricket and movies.</div>
+                    <div class="buttons">
+                        <href="/cv.txt" target="blank">
+                        <button>Download CV</button></a>
+                        <a href="/contact.html"><button>Contact Me</button></a>
+                    </div>
+                </div>
+                <div class="Devpic"><img src="dev.png.JPG"alt="Parwinder Singh"></div>
+            </div>
+        </div>
+</div>
+</body>
+
+</html>
